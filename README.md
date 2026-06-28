@@ -116,6 +116,7 @@ Data Exploration
 Analytical Problem Solving
 Banking Domain Analytics
 Author
-Kanika Pandey
+
+Aditya Pandey
 
 Data Analyst | SQL | PostgreSQL | Data Analytics
